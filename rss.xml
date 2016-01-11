@@ -4,20 +4,13 @@
         <description><![CDATA[Foto]]></description>
         <link>https://thegrid.ai/foto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 09:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 10:13:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/648d8c71-e5f7-4250-b648-f6be86b6b6eb.jpg">]]></description>
             <link>https://thegrid.ai/foto/8dd96621-c0e2-4704-bb9d-e7ee51afb930/index.html</link>
             <guid isPermaLink="false">8dd96621-c0e2-4704-bb9d-e7ee51afb930</guid>
-            <pubDate>Mon, 11 Jan 2016 09:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polarwolf]]></title>
-            <description><![CDATA[<article><h1>Polarwolf</h1><p>Amneville</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a56a26d7278056662f92616717cbd79f3e43253.jpg"></article>]]></description>
-            <link>https://thegrid.ai/foto/polarwolf/index.html</link>
-            <guid isPermaLink="false">5a25824a-283f-49af-8021-c8ee921425a0</guid>
             <pubDate>Mon, 11 Jan 2016 09:49:50 GMT</pubDate>
         </item>
     </channel>
