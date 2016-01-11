@@ -1,7 +1,7 @@
 name: Foto
 favicon: null
-layout_spectrum: 0.9608896439895034
-typography_spectrum: 0.22928831167519093
+layout_spectrum: 1
+typography_spectrum: 0.81189
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.8751229946501553
-  lightness: 0.16952279629185796
-  saturation: 0.698196210199967
-  rhythmicContrast: 0.9114632725249976
+  brandStrength: 0.0625
+  lightness: 0.0625
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
