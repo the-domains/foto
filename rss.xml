@@ -4,8 +4,14 @@
         <description><![CDATA[Foto]]></description>
         <link>https://thegrid.ai/foto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 10:36:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/foto/b04ef04c-2b35-4238-83bc-ca721b6b7f9a/index.html</link>
+            <guid isPermaLink="false">b04ef04c-2b35-4238-83bc-ca721b6b7f9a</guid>
+            <pubDate>Mon, 11 Jan 2016 10:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb7c390-f036-472d-b5de-3e7db23275fa.jpg">]]></description>
