@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Foto]]></title>
         <description><![CDATA[Foto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/foto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 09:38:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 09:50:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/foto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Polarwolf]]></title>
-            <description><![CDATA[<article><h1>Polarwolf</h1><p>Amneville</p></article>]]></description>
-            <link>undefinedpolarwolf/index.html</link>
+            <description><![CDATA[<article><h1>Polarwolf</h1><p>Amneville</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a56a26d7278056662f92616717cbd79f3e43253.jpg"></article>]]></description>
+            <link>https://thegrid.ai/foto/polarwolf/index.html</link>
             <guid isPermaLink="false">5a25824a-283f-49af-8021-c8ee921425a0</guid>
-            <pubDate>Mon, 11 Jan 2016 09:38:01 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 09:49:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
